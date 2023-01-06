@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navService"
+        android:icon="@drawable/layer_2"
+        android:title="Service"
+        />
+    <item
+        android:id="@+id/navOrder"
+        android:icon="@drawable/ic_baseline_document_scanner_24"
+        android:title="Order"
+        />
+    <item
+        android:id="@+id/navUser"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="User"
+        />
+    <item
+        android:id="@+id/navMore"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:title="More"
+        />
+</menu>
